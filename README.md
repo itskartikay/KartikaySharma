@@ -15,7 +15,7 @@ Seeking a beginner role and explore my technical knowledge gained at Chitkara Un
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!-- ### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/> -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
